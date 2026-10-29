@@ -43,12 +43,4 @@ A future implementation could be published under a recognised open-source licenc
 - UNICEF Sierra Leone. (2026, February 5). [Access to clean water could improve children’s health and education](https://www.unicef.org/sierraleone/stories/access-clean-water-could-improve-childrens-health-and-education).
 - United Nations, Department of Economic and Social Affairs. (n.d.). [Goal 6: Clean Water and Sanitation](https://sdgs.un.org/goals/goal6).
 
-## Student submission checklist
-1. Replace student name and student ID placeholders in the report and this README.
-2. Create a GitHub repository named `PROG101_Assignment1_StudentName_StudentID` using your actual details.
-3. Upload the report, flowchart and pseudocode.
-4. Make regular commits with meaningful messages.
-5. Add genuine screenshots of your repository and commit history as required by the assignment.
-6. Insert your actual repository URL and check access for the examiner.
-
-**Important:** No GitHub repository URL, commit history or screenshots are included because these must come from the student’s own GitHub account.
+ 
